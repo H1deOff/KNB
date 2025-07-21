@@ -1,0 +1,4 @@
+﻿  KNB.cpp
+C:\Users\H1deOff\projects\KNB\KNB.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\H1deOff\projects\KNB\KNB.cpp(98,1): warning C4715: result: значение возвращается не при всех путях выполнения
+  KNB.vcxproj -> C:\Users\H1deOff\projects\KNB\x64\Debug\KNB.exe
